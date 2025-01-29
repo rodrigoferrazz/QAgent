@@ -3,12 +3,12 @@
 ### [🔗 Link do Agente GPT](https://chatgpt.com/g/g-67992b41db988191bdb92340ff6f2d43-analista-comportamental)
 
 ## *👥  Integrantes do Grupo*  
-•⁠  ⁠[Gabriel Bartmanovicz] <br/>
-•⁠  ⁠[Guilherme Fireman] <br/>
-•⁠  ⁠[Lívia de Souza Negrini] <br/>
-•⁠  ⁠[Lorenzo Ferrari Aggio] <br/>
-•⁠  ⁠[Nicole Zanin] <br/>
-•⁠  ⁠[Rodrigo Ferraz]
+•⁠  ⁠Gabriel Bartmanovicz <br/>
+•⁠  Guilherme Fireman <br/>
+•⁠  ⁠Lívia de Souza Negrini <br/>
+•⁠  Lorenzo Ferrari Aggio <br/>
+•⁠  ⁠Nicole Zanin <br/>
+•⁠  Rodrigo Ferraz
 
 ## *📄 Descrição do Projeto* 
 > ⁠Este projeto tem como objetivo monitorar e avaliar o nível de eficiência das reuniões de um time de acordo com a transcrição dessas reuniões.  <br/>
