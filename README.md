@@ -27,7 +27,7 @@
 - Documento sobre PNL e análise de comportamento de pessoas feito pelo DeepSeek
 - Documento sobre comunicação efetiva
 
-### [⚠️ Prompt](https://we.tl/t-1WDh12krfg)
+### [⚠️ Prompt](https://we.tl/t-1WDh12krfg](https://github.com/rodrigoferrazz/documentacaohackatoon/blob/main/prompt.txt)
 
 ### *📖 Documentações Complementares:*  
 ⁠🔗 https://drive.google.com/file/d/1gzboXJCmx6lv_rKqBi8wvm27idXi__N0/view<br/>
